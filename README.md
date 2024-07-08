@@ -6,3 +6,5 @@
 
 ## How can you contact me?
 You can contact me at: [scan@scanash.com](mailto:scan@scanash.com)
+
+This icons are from Skill Icons, find them at [skillicons.dev](https://skillicons.dev/)
