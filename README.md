@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=scanash00&color=purple)
+
 ## My skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,lua,linux)](https://scanash.com)
 
