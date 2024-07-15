@@ -5,6 +5,14 @@
 
 ##  My Socials:
 [![My Socials](https://skillicons.dev/icons?i=discord,github,twitter)](https://scanash.com)
+<details>
+<summary>Links</summary>
+<br>
+
+<a href="https://scanash.com">Scan's Website</a> \- <a href="https://discord.com/users/827389583342698536/">Discord</a> \- <a href="https://github.com/scanash00">GitHub</a> \- <a href="https://x.com/x_ale_pro">X (Twitter)</a>
+  
+</details>
+
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=scanash00)](https://github.com/anuraghazra/github-readme-stats)
 
