@@ -14,7 +14,6 @@
 </details>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=scanash00)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How can you contact me?
 You can contact me at: [scan@scanash.com](mailto:scan@scanash.com)
