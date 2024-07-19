@@ -19,3 +19,5 @@
 You can contact me at: [scan@scanash.com](mailto:scan@scanash.com)
 
 This icons are from Skill Icons, find them at [skillicons.dev](https://skillicons.dev/)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1VMR1D)
