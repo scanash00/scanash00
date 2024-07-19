@@ -5,6 +5,9 @@
 
 ##  My Socials:
 [![My Socials](https://skillicons.dev/icons?i=discord,github,twitter)](https://scanash.com)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1VMR1D)
+
 <details>
 <summary>Links</summary>
 <br>
@@ -12,7 +15,7 @@
 <a href="https://scanash.com">Scan's Website</a> \- <a href="https://discord.com/users/827389583342698536/">Discord</a> \- <a href="https://github.com/scanash00">GitHub</a> \- <a href="https://x.com/x_ale_pro">X (Twitter)</a>
   
 </details>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1VMR1D)
+
 
 
 ## How can you contact me?
