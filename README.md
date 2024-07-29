@@ -1,5 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=scanash00&color=0e75b6&)
 
+# Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scanash00&theme=catppuccin-frappe&hide_border=true)](https://git.io/streak-stats)
+
 ## My skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,lua,linux)](https://scanash.com)
 
