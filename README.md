@@ -7,6 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scanash00&theme=catppuccin_mocha&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scanash00&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,lua,linux)](https://scanash.com)
 
