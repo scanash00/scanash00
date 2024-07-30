@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=scanash00&color=0e75b6&)
 
-### Welcome to my profile! My name is Scan.
+### Welcome to my profile! My name is Scan, here you will find my Stats and more information.
 
 # Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scanash00&theme=catppuccin-frappe&hide_border=true)](https://git.io/streak-stats)
