@@ -13,6 +13,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,lua,linux)](https://scanash.com)
 
 ##  My Socials:
+[![Discord Presence](https://lanyard.cnrad.dev/api/827389583342698536)](https://discord.com/users/827389583342698536)
+
 [![My Socials](https://skillicons.dev/icons?i=discord,github,twitter)](https://scanash.com)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1VMR1D)
