@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scanash00&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,ts,py)](https://scanash.com)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,ts,py,java)](https://scanash.com)
 
 ##  My Socials:
 [![Discord Presence](https://lanyard.cnrad.dev/api/827389583342698536)](https://discord.com/users/827389583342698536)
