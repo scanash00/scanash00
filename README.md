@@ -1,37 +1,59 @@
-![](https://komarev.com/ghpvc/?username=scanash00&color=0e75b6&)
+![Profile Views](https://komarev.com/ghpvc/?username=scanash00&color=0e75b6&)
 
-### Welcome to my profile! My name is Scan, here you will find my Stats and more information.
+# 👋 Hey there! I'm Scan
 
-# Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scanash00&theme=catppuccin-frappe&hide_border=true)](https://git.io/streak-stats)
+## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scanash00&theme=catppuccin_mocha&show_icons=true)
+<div align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=scanash00&theme=catppuccin-frappe&hide_border=true" alt="GitHub Streak Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scanash00&theme=catppuccin_mocha&show_icons=true" alt="GitHub Stats"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scanash00&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scanash00&theme=catppuccin_mocha&layout=compact" alt="Top Languages"/>
+</div>
 
-## My skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,ts,py,java)](https://scanash.com)
+## 🚀 Skills
 
-##  My Socials:
-[![Discord Presence](https://lanyard.cnrad.dev/api/827389583342698536)](https://discord.com/users/827389583342698536)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,linux,ts,py,java" alt="Skills"/>
+</div>
 
-[![My Socials](https://skillicons.dev/icons?i=discord,github,twitter)](https://scanash.com)
+## 🌐 Contact Me
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1VMR1D)
+<div align="center">
+    <a href="https://discord.com/users/827389583342698536">
+        <img src="https://lanyard.cnrad.dev/api/827389583342698536" alt="Discord Presence"/>
+    </a>
+    
+    <br>
+    
+    <a href="https://discord.com/users/827389583342698536" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
+    </a>
+    <a href="https://github.com/scanash00" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+    </a>
+    <a href="https://x.com/x_ale_pro" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
+    </a>
+</div>
 
-<details>
-<summary>Links</summary>
-<br>
+## 📬 Contact Me
 
-<a href="https://scanash.com">Scan's Website</a> \- <a href="https://discord.com/users/827389583342698536/">Discord</a> \- <a href="https://github.com/scanash00">GitHub</a> \- <a href="https://x.com/x_ale_pro">X (Twitter)</a>
-  
-</details>
+📧 Email: [scan@scanash.com](mailto:scan@scanash.com)
 
+<div align="center">
+    <a href="https://ko-fi.com/P5P1VMR1D" target="_blank">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/>
+    </a>
+</div>
 
+## 🔗 Quick Links
 
-## How can you contact me?
-You can contact me at: [scan@scanash.com](mailto:scan@scanash.com)
+- [Personal Website](https://scanash.com)
+- [Discord](https://discord.com/users/827389583342698536/)
+- [GitHub](https://github.com/scanash00)
+- [X (Twitter)](https://x.com/x_ale_pro)
 
-This icons are from Skill Icons, find them at [skillicons.dev](https://skillicons.dev/)
-
-
+*Icons from [Skill Icons](https://skillicons.dev/)*
