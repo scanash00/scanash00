@@ -19,23 +19,17 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,linux,ts,py,java" alt="Skills"/>
 </div>
 
-## 🌐 Contact Me
+## 🌐 Contact me
 
 <div align="center">
-    <a href="https://discord.com/users/827389583342698536">
-        <img src="https://lanyard.cnrad.dev/api/827389583342698536" alt="Discord Presence"/>
-    </a>
-    
-    <br>
-    
     <a href="https://discord.com/users/827389583342698536" target="_blank">
-        <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50"/>
     </a>
     <a href="https://github.com/scanash00" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50"/>
     </a>
     <a href="https://x.com/x_ale_pro" target="_blank">
-        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
+        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="50"/>
     </a>
 </div>
 
