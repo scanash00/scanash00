@@ -4,14 +4,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=scanash00&theme=catppuccin-frappe&hide_border=true" alt="GitHub Streak Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scanash00&theme=catppuccin_mocha&show_icons=true" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scanash00&theme=catppuccin_mocha&layout=compact" alt="Top Languages"/>
-</div>
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ## 🚀 Skills
 
