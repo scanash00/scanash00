@@ -23,9 +23,6 @@
     <a href="https://github.com/scanash00" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50"/>
     </a>
-    <a href="https://x.com/x_ale_pro" target="_blank">
-        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="50"/>
-    </a>
 </div>
 
 ## 📬 Contact Me
@@ -43,6 +40,7 @@
 - [Personal Website](https://scanash.com)
 - [Discord](https://discord.com/users/827389583342698536/)
 - [GitHub](https://github.com/scanash00)
-- [X (Twitter)](https://x.com/x_ale_pro)
-
+- [Bluesky](https://bsky.app/profile/scanash.com)
+- [Fediverse](https://nobitch.es/@scan)
+  
 *Icons from [Skill Icons](https://skillicons.dev/)*
